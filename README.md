@@ -1,6 +1,6 @@
-# Hi, ich bin Benjamin Lam
+# Moin, ich bin Benjamin Lam
 
-**Webentwickler. Seit über 25 Jahren. Gerade ziemlich neugierig darauf, was passiert, wenn KI nicht nur Code schreibt, sondern anfängt mitzuarbeiten.**
+**Webentwickler. Gerade ziemlich neugierig darauf, was passiert, wenn KI nicht nur Code schreibt, sondern anfängt mitzuarbeiten.**
 
 Ich komme aus der klassischen Webentwicklung: PHP, E-Commerce, gewachsene Systeme, Datenbanken, APIs, Deployments und all die Dinge, die irgendwann jemand betreiben muss.
 
@@ -55,7 +55,7 @@ Es ist **Werkbank, Labor und Notizbuch**.
 
 Über Softwareentwicklung, KI, Agenten, alte Rechner, neue Werkzeuge und gelegentlich darüber, warum einfache Dinge plötzlich kompliziert werden:
 
-**https://benjamin-lam.de**
+**https://blame76.com**
 
 ## Austausch
 
