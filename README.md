@@ -1,64 +1,53 @@
-# Moin, ich bin Benjamin Lam
+👋 Moin, ich bin Benjamin Lam
 
-**Webentwickler. Gerade ziemlich neugierig darauf, was passiert, wenn KI nicht nur Code schreibt, sondern anfängt mitzuarbeiten.**
+Ich entwickle Software.
 
-Ich komme aus der klassischen Webentwicklung: PHP, E-Commerce, gewachsene Systeme, Datenbanken, APIs, Deployments und all die Dinge, die irgendwann jemand betreiben muss.
+Dabei habe ich irgendwann aufgehört, Erfahrung daran zu messen, wie viele Technologien, Frameworks oder Programmiersprachen ich aufzählen kann.
 
-Aktuell beschäftigt mich vor allem eine Frage:
+Interessanter finde ich, was nach genügend guten und schlechten Entscheidungen davon übrig bleibt.
 
-**Wie bauen wir Software mit KI und Agenten, ohne Kontrolle, Verständlichkeit und Verantwortung gleich mit zu automatisieren?**
+Ich habe Systeme gesehen, die zu clever für ihr eigenes Problem waren. Abstraktionen, die mehr Arbeit erzeugt als eingespart haben. Abhängigkeiten, die einmal bequem waren und Jahre später niemand mehr anfassen wollte. Und Lösungen, die technisch funktioniert haben, obwohl sie eigentlich niemand mehr verstanden hat.
 
-## Woran ich gerade arbeite
+Das prägt, wie ich heute entwickle.
 
-Meine Repositories sind zunehmend eine Werkbank für genau diese Frage.
+Ich mag einfache Systeme. Nicht aus Prinzip, sondern weil Komplexität teuer ist und ihren Nutzen erst beweisen sollte.
 
-Ich experimentiere unter anderem mit:
+Ich versuche, Entscheidungen sichtbar und möglichst reversibel zu halten. Tests sind für mich weniger ein Qualitätssiegel als eine überprüfbare Behauptung darüber, was ein System können soll. Dokumentation ist dann gut, wenn jemand nach mir noch versteht, warum etwas so gebaut wurde.
 
-* agentenfähigen Entwicklungs-Workflows
-* klaren Gates zwischen Mensch und KI
-* reproduzierbaren lokalen Entwicklungsumgebungen
-* sicheren PHP/API-Baselines
-* kleinen, verständlichen Werkzeugen statt großer Frameworks
-* Git-, SSH- und Rechner-Onboarding
-* file-basierten CMS- und Deployment-Konzepten
-* Tests, die nicht nur bestätigen, dass etwas läuft, sondern verhindern sollen, dass ein Agent Unsinn baut
+Legacy-Code ist für mich nicht automatisch schlechter Code. Meist ist er die Geschichte früherer Entscheidungen unter Bedingungen, die heute nicht mehr sichtbar sind.
 
-Dabei interessiert mich weniger die Demo, die nach fünf Minuten funktioniert.
+Und ein funktionierendes Ergebnis ist noch kein verstandenes System.
 
-Mich interessiert, **was nach fünf Monaten noch verständlich, wartbar und sicher ist.**
+Was mich gerade beschäftigt
 
-## Mein Werkzeugkasten
+Mit KI und agentischen Werkzeugen können wir heute Dinge sehr schnell bauen.
 
-**Heute häufig:**
-PHP • JavaScript • MySQL/MariaDB • Docker • Apache/Caddy • Git • Bash • Playwright
+Das finde ich großartig.
 
-**Über die Jahre:**
-Magento • WordPress • Shopware • E-Commerce • APIs • Legacy-Systeme • Architektur • QA
+Mich interessiert allerdings zunehmend, was zwischen Auftrag und Ergebnis passiert.
 
-Und natürlich inzwischen ziemlich viel:
+Welche Entscheidungen hat das Werkzeug bereits getroffen?
+Welche davon habe ich überhaupt bemerkt?
+Was muss ich selbst noch verstehen?
+Welche Rechte braucht ein Agent wirklich?
+Wo endet Automatisierung und wo beginnt Verantwortung?
 
-**LLMs • Coding Agents • Prompts • Context • Tests • Gates • Delegation**
+Ich möchte KI nicht dazu benutzen, Entwicklung möglichst vollständig loszuwerden.
 
-## Wie ich arbeite
+Ich möchte herausfinden, welche Teile wir guten Gewissens abgeben können – und an welchen Stellen menschliches Urteil, Erfahrung und Widerspruch wichtiger werden.
 
-KISS vor Cleverness.
-Erst verstehen, dann abstrahieren.
-Automatisierung braucht Grenzen.
-Ein grüner Test ist besser als ein gutes Gefühl.
-Und wenn eine KI etwas gebaut hat, möchte ich trotzdem noch verstehen können, warum es funktioniert.
+Vielleicht verändert sich damit auch die Rolle von Entwicklerinnen und Entwicklern.
 
-GitHub ist für mich deshalb nicht nur Portfolio.
+Weniger entscheidend wird dann, wer am schnellsten Code produziert.
 
-Es ist **Werkbank, Labor und Notizbuch**.
+Wichtiger wird, wer die richtigen Bedingungen schafft, unter denen Menschen und Maschinen gemeinsam verlässliche Software bauen können.
 
-## Ich schreibe darüber
+Was hier entsteht
 
-Über Softwareentwicklung, KI, Agenten, alte Rechner, neue Werkzeuge und gelegentlich darüber, warum einfache Dinge plötzlich kompliziert werden:
+Auf GitHub entstehen daraus kleine Werkzeuge, Baselines und Experimente rund um Webentwicklung, APIs, Testing, Security, lokale Entwicklungsumgebungen und agentische Workflows.
 
-**https://blame76.com**
+Nicht als Schaufenster.
 
-## Austausch
+Eher als Werkbank.
 
-Mich interessieren Menschen, die Software tatsächlich bauen, betreiben und dabei gerade ebenfalls herausfinden, wie sich unsere Arbeit durch KI verändert.
-
-**LinkedIn:** https://linkedin.com/in/was-mit-internet
+Werkbank statt Schaufenster.
